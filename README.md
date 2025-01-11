@@ -1,16 +1,17 @@
-## Hi there 👋
+# Sobre mim ✍️
 
-<!--
-**alvesxy/alvesxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo *Alves* e estou no último ano do ensino médio 📚
 
-Here are some ideas to get you started:
+💙 Gosto de eletrônica  💾, robótica  🤖 e programação 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💚 Amo integrações de hardware : software
+
+❤️ Apaixonado por sistemas performáticos ⚡, documentados 📄 e padronizados 📏
+
+# Linguagens 👨‍💻
+
+# <img align="center" alt="Java image" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> Java
+
+# <img align="center" alt="C image" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> Linguagem C
+
+# <img align="center" alt="Cpp image" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> C++
